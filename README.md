@@ -1,2 +1,2 @@
 # Master-Thesis
-Dispersion Trading
+Variance swaps project
